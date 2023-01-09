@@ -78,8 +78,6 @@ app.route("/task/completed")
     })
 
 
-    // Fix the task completion and handling delete because req.idx is string
-
 
 
 
